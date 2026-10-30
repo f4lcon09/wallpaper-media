@@ -64,5 +64,15 @@
     "img/imv-001-cozinha-b.jpg",
     "img/imv-001-suite-a.jpg",
     "img/imv-001-suite-b.jpg"
+  ],
+  "imv-002": [
+    "img/imv-002-fachada-1.jpg",
+    "img/imv-002-fachada-2.jpg",
+    "img/imv-002-sala-1.jpg",
+    "img/imv-002-sala-2.jpg",
+    "img/imv-002-cozinha-1.jpg",
+    "img/imv-002-cozinha-2.jpg",
+    "img/imv-002-piscina-1.jpg",
+    "img/imv-002-piscina-2.jpg"
   ]
 }
