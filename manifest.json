@@ -54,5 +54,15 @@
   "arte-018": [
     "img/arte-018-previa.jpg",
     "img/arte-018-mockup-celular.jpg"
+  ],
+  "imv-001": [
+    "img/imv-001-fachada-a.jpg",
+    "img/imv-001-fachada-b.jpg",
+    "img/imv-001-sala-a.jpg",
+    "img/imv-001-sala-b.jpg",
+    "img/imv-001-cozinha-a.jpg",
+    "img/imv-001-cozinha-b.jpg",
+    "img/imv-001-suite-a.jpg",
+    "img/imv-001-suite-b.jpg"
   ]
 }
